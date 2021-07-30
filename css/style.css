@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+background: #2F2F2F;
+}
+.header_section{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+padding: 10px 0px;
+}
+.Logo{
+
+float: left;
+}
+.img{
+
+font-size: 22px;
+}
+
+nav{
+
+width: 50%;
+
+float: right;
+}
+nav ul {
+
+list-style: none;
+
+float: right;
+
+padding-top: 16px;
+}
+nav ul li{
+
+float: left;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+padding-left: 20px;
+    
+font-size: 20px;
+    
+color: #FFFFFF;
+    
+text-transform: capitalize;
+}
+.LeftRight_Section{
+
+overflow: hidden;
+
+background: #F1F1F1;
+}
+.Section_Content{
+
+width: 90%;
+
+margin-left: 5%;
+
+float: left;
+
+margin-top: 60px;
+
+margin-bottom: 100px;
+}
+.Left_Content{
+
+width: 48%;
+
+float: left;
+}
+.Left_Content h1{
+
+font-size: 45px;
+}
+.Left_Content p{
+
+padding: 20px 0px;
+
+color: #656565;
+}
+.button{
+
+background: #D5562F;
+
+width: 20%;
+
+color: white;
+
+text-align: center;
+
+font-size: 20px;
+
+font-weight: 700;
+
+padding: 10px;
+
+border-radius: 5px;
+}
+.Right_Content{
+
+width: 48%;
+
+float: right;
+}
+.img{
+
+}
+.img img{
+    
+width: 100%;
+}
+.food_part{
+
+overflow: hidden;
+}
+
+.food_1 img{
+
+width: 25%;
+
+float: left;
+}
+.food_headin {
+    width: 90%;
+    margin-left: 5%;
+    font-size: 35px;
+    margin-top: 98px;
+    margin-bottom: 50px;
+}
+.food_img1 img {
+    width: 30%;
+}
+.food_Content {
+    width: 25%;
+    margin-left: 5%;
+}
+
+.food_img1 {
+    width: 715px;float: left;
+}
+.Service {
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.service_One {
+    width: 30%;
+    float: left;
+    margin-top: 150px;
+    background: #F1F1F1;
+}
+
+.service_One img {
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 30px;
+}
+
+.service_Two {
+    width: 30%;
+    float: left;
+    margin-top: 150px;
+    margin-left: 5%;
+    background: #F1F1F1;
+}
+
+.service_Two img {
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 30px;
+}
+
+.service_Three img {
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 30px;
+}
+
+.service_Three {
+    width: 30%;
+    float: right;
+    margin-top: 150px;
+    background: #F1F1F1;
+}
+.footer_up {
+    overflow: hidden;
+    background: #2F2F2F;
+}
+
+.footer_content {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.About {
+    width: 48%;
+    float: left;
+    color: #F3F3F3;
+    margin: 75px 0px;
+}
+
+.Connected {
+    width: 48%;
+    float: right;
+    overflow: hidden;
+    color: #F3F3F3;
+    margin: 75px 0px;
+}
+
+.Connected h1 {
+}
+
+.Connected ul {
+    list-style: none;
+}
+
+.Connected li {padding: 10px 0px;}
+
+.Connected ul li a {
+    text-decoration: none;
+    color: #F3F3F3;
+}
+
+i.fab.fa-facebook-square {
+    font-size: 35px;
+}
+
+
+
+i.fab.fa-twitter-square {
+    font-size: 35px;
+}
+
+i.fab.fa-instagram-square {
+    font-size: 35px;
+}
+
+i.fab.fa-linkedin {
+    font-size: 35px;
+}
+footer {
+    height: 100px;
+}
+.footer_section {
+    text-align: center;
+    padding: 50px 0px;
+    font-size: 20px;
+    color: #2F2F2F;
+    background: #F1F1F1;
+}
+
+span {
+    font-size: 22px;
+}
+.About p{
+    text-align: justify;
+}
+.footer_section p{
+    text-align: center;
+}
